@@ -8,12 +8,12 @@
 
 ## Schedule
 - Monday 
-  - 6pm-8pm COMP1234
+  - 6pm-8pm [COMP1234](https://learn.georgebrown.ca/d2l/home/416188)
 - Tuesday
-  - 4pm-6pm COMP1238
+  - 4pm-6pm [COMP1238](https://learn.georgebrown.ca/d2l/home/412494)
 - Wednesday
   - N/A
 - Thursday
-  - 1pm-2pm COMP1238, 2pm-4pm COMP1234
+  - 1pm-2pm [COMP1238](https://learn.georgebrown.ca/d2l/home/412494), 2pm-4pm [COMP1234](https://learn.georgebrown.ca/d2l/home/416188)
 - Friday
   - N/A
